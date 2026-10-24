@@ -402,7 +402,7 @@ Create the file `server/.env` with the following content:
 
 ```
 PORT=5000
-MONGODB_URI=mongodb+srv://YOUR_USER:YOUR_PASSWORD@cluster0.xxxxx.mongodb.net/ai-finance-tracker?retryWrites=true&w=majority
+MONGODB_URI
 
 JWT_SECRET=replace_with_a_long_random_string
 JWT_EXPIRE=7d
